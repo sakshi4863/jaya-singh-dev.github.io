@@ -10,7 +10,7 @@
 - Made responsive design for mobile and desktop  
 
 ## Skills
-HTML • CSS • JavaScript • Wix • WordPress  
+HTML • CSS • JavaScript • Wix   
 
 ---
 Beginner level, excited to learn and work on real projects.
